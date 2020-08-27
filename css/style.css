@@ -1,0 +1,68 @@
+
+/*
+Theme name:Galaxy
+Author    : namnguyen
+Version   : 1.0 */
+/*
+Table of content
+1,Reset Css
+2,Header
+3,
+*/
+/* ============ 1,Reset Css ============= */
+
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Baloo Bhai 2', cursive;
+}
+.banner_text {
+    margin: auto;
+}
+img{
+	width:100%;
+}
+.container{
+	width: 1440px;
+	padding: 0 15px;
+	margin: auto;
+}
+
+.container {
+    height: 100%;
+}
+h1 {
+	font-size: 65px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+h2 {
+	font-size: 45px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+}
+h3 {
+	font-size: 25px;
+	font-weight: bold;
+	letter-spacing: 0.5px;
+}
+p {
+	font-size: 18px;
+}
+a{
+	text-decoration: none;
+}
+/* ============= 2,Header ================ */
+
+
+
+
+

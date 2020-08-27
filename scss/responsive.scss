@@ -1,0 +1,575 @@
+@media (max-width:374px){
+    h1{
+        font-size: 35px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    p{
+        font-size: 16px;
+    }
+    .header{
+
+        .header_top {
+
+            .header_navbar {
+
+                .header_menu {
+
+                    .ul_menu {
+                        display: none;
+                    } 
+
+                    .bar_menu {
+                        display:block;
+                    }
+                }  
+            }   
+        }
+    
+        .header_banner {
+            padding: 60px 0 40px;
+    
+            .banner_right {
+                padding:40px 15px;
+    
+                .banner_right_text {
+    
+                    p {
+                        margin:15px 0 10px;
+                    }
+                }
+            }
+        }
+    }
+    /*-------------------------------------------------*/
+    .info_text {
+
+        p {
+            max-width: 500px;
+            margin:15px auto 5px;
+        }
+    }
+    
+    .info_class {
+        padding:75px 0;
+    
+        .flower {
+            width:130px;
+            top:-8%;
+        }
+        .info_class_list {
+            .info_class_item {
+                margin-bottom: 20px;
+            }
+        }
+    }
+    /*--------------------------------------------------*/
+    .our-staffs {
+    
+        .our-staff-container {
+            padding:60px 0 60px;
+    
+            .info_text {
+                margin-bottom: 50px;
+            }
+        }
+        .staff {
+            width:180px;
+            height:180px;
+            margin-bottom: 20px;
+        }
+    }
+    /*--------------------------------------------------*/
+    .instructor {
+    
+        .info_text {
+            text-align: center;
+            padding:60px 85px 20px;
+
+            button {
+                margin:0 auto;
+            }
+        }
+    }
+    .btn-2 {
+        width: 180px;
+        height: 40px;
+        margin-top:20px;     
+    }
+    /*--------------------------------------------------*/
+    .new-experence {
+        padding:40px;
+
+        .exp_img {
+            padding-right: 0;
+        }
+    
+        .flower {
+            width:40%;
+            position: absolute;
+            bottom:35px;
+            right:-20px;
+            opacity: 0.3;
+        }
+    
+        .info_text {
+            padding:15px 0;
+            text-align: center;
+            
+            p {
+                max-width: 300px;
+            }
+       
+            .btn-2 {
+            color: white;
+            background-color: #6c9894;
+            }
+        }
+    }
+/*-----------------------------------------------------------*/
+    .course-price {
+        padding:50px 30px 60px;
+
+        .card_price {
+
+            .card_price_item {
+                width:95%;
+                padding:30px 0 15px;
+                margin-bottom:30px;
+
+                img {
+                    width: 90px;;
+                }
+
+                p {
+                    max-width: 210px;
+                    margin:20px auto 15px;
+                    font-size: 15px;
+                }
+                
+                .btn-2 {
+                width:80%;
+                font-size: 15px;
+                }
+            }
+        }
+    }
+    /*---------------------------------------------------*/
+    .trainer_info {
+        
+        .trainer_info_content {
+            padding:60px 0 90px;
+    
+            .info_class_img {
+                width: 300px;
+            
+                .shape_img {
+                    width:205px;
+                    height: 205px;   
+                }
+            }
+        }
+    }
+    /*---------------------------------------------------*/
+    .contact {
+        padding:80px 0;
+    
+        .info_contact {
+    
+            input {
+                width: 270px;
+                height:35px;
+            }
+            button {
+                width:75px;
+                height:35px;
+            }
+        }
+    }
+    /*----------------------------------------------------*/
+    .footer {
+        padding:50px 0 45px;
+        
+        .footer_list {
+            margin-left: 0px;
+            margin-top: 25px;
+            .footer_list_item {
+                margin-top:30px;
+            }
+        }   
+    }
+}
+
+@media (min-width:374px) and (max-width:767px){
+    h1{
+        font-size: 35px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    p{
+        font-size: 16px;
+    }
+    .header{
+
+        .header_top {
+
+            .header_navbar {
+
+                .header_menu {
+
+                    .ul_menu {
+                        display: none;
+                    } 
+
+                    .bar_menu {
+                        display:block;
+                    }
+                }  
+            }   
+        }
+    
+        .header_banner {
+            padding: 60px 0 40px;
+    
+            .banner_right {
+                padding:40px 15px;
+    
+                .banner_right_text {
+    
+                    p {
+                        margin:15px 0 10px;
+                    }
+                }
+            }
+        }
+    }
+    /*-------------------------------------------------*/
+    .info_text {
+
+        p {
+            max-width: 500px;
+            margin:15px auto 5px;
+        }
+    }
+    
+    .info_class {
+        padding:75px 0;
+    
+        .flower {
+            width:130px;
+            top:-8%;
+        }
+        .info_class_list {
+            .info_class_item {
+                margin-bottom: 20px;
+            }
+        }
+    }
+    /*--------------------------------------------------*/
+    .our-staffs {
+    
+        .our-staff-container {
+            padding:60px 0 60px;
+    
+            .info_text {
+                margin-bottom: 50px;
+            }
+        }
+        .staff {
+            width:180px;
+            height:180px;
+            margin-bottom: 20px;
+        }
+    }
+    /*--------------------------------------------------*/
+    .instructor {
+    
+        .info_text {
+            text-align: center;
+            padding:60px 85px 20px;
+
+            button {
+                margin:0 auto;
+            }
+        }
+    }
+    .btn-2 {
+        width: 180px;
+        height: 40px;
+        margin-top:20px;     
+    }
+    /*--------------------------------------------------*/
+    .new-experence {
+        padding:40px;
+
+        .exp_img {
+            padding-right: 0;
+        }
+    
+        .flower {
+            width:40%;
+            position: absolute;
+            bottom:35px;
+            right:-20px;
+            opacity: 0.3;
+        }
+    
+        .info_text {
+            padding:15px 0;
+            text-align: center;
+            
+            p {
+                max-width: 300px;
+            }
+       
+            .btn-2 {
+            color: white;
+            background-color: #6c9894;
+            }
+        }
+    }
+/*-----------------------------------------------------------*/
+    .course-price {
+        padding:50px;
+
+        .card_price {
+
+            .card_price_item {
+                width:95%;
+                padding:30px 0 15px;
+                margin-bottom:30px;
+
+                img {
+                    width: 90px;;
+                }
+
+                p {
+                    max-width: 210px;
+                    margin:20px auto 15px;
+                    font-size: 15px;
+                }
+                
+                .btn-2 {
+                width:80%;
+                font-size: 15px;
+                }
+            }
+        }
+    }
+    /*---------------------------------------------------*/
+    .trainer_info {
+        
+        .trainer_info_content {
+            padding:60px 0 90px;
+    
+            .info_class_img {
+                width: 350px;
+            
+                .shape_img {
+                    width:225px;
+                    height: 225px;   
+                }
+            }
+        }
+    }
+    /*---------------------------------------------------*/
+    .contact {
+        padding:80px 0;
+    
+        .info_contact {
+    
+            input {
+                width: 320px;
+                height:35px;
+            }
+            button {
+                width:75px;
+                height:35px;
+            }
+        }
+    }
+    /*----------------------------------------------------*/
+    .footer {
+        padding:50px 0 45px;
+        
+        .footer_list {
+            margin-left: 0px;
+            margin-top: 25px;
+            .footer_list_item {
+                margin-top:30px;
+            }
+        }   
+    }
+}
+
+@media (min-width:768px) and (max-width:1200px){
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    p{
+        font-size: 18px;
+    }
+    .header{
+
+        .header_top {
+
+            .header_navbar {
+
+                .header_menu {
+
+                    .ul_ {
+                        li {
+                            padding:15px 10px;
+                            margin-right:15px;
+    
+                            a {
+                            font-size:20px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    
+        .header_banner {
+            padding-bottom: 70px;
+    
+            .banner_right {
+                padding:75px 15px;
+    
+                .banner_right_text {
+    
+                    p {
+                        margin:15px 0 10px;
+                    }
+                }
+            }
+        }
+    }
+    .info_text {
+
+        p {
+            max-width: 500px;
+            margin:15px auto 5px;
+        }
+    }
+    
+    .info_class {
+        padding:75px 0;
+    
+        .flower {
+            width:180px;
+            top:-30%;
+        }
+    }
+    /*--------------------------------------------------*/
+    .our-staffs {
+    
+        .our-staff-container {
+            padding:60px 0 120px;
+    
+            .info_text {
+                margin-bottom: 50px;
+            }
+        }
+        .staff {
+            width:210px;
+            height:210px;
+        }
+    }
+    /*--------------------------------------------------*/
+    .instructor {
+    
+        .info_text {
+            padding:60px 85px 20px;
+        }
+    }
+    /*--------------------------------------------------*/
+    .new-experence {
+        padding:40px 0 40px 80px ;
+    
+        .flower {
+            width:25%;
+            position: absolute;
+            bottom:25px;
+            right:-20px;
+            opacity: 0.3;
+        }
+    
+        .info_text {
+            padding:15px 15px 0;
+            
+            p {
+                max-width: 300px;
+            }
+       
+            .btn-2 {
+            color: white;
+            background-color: #6c9894;
+            }
+        }
+    }
+/*-----------------------------------------------------------*/
+    .course-price {
+        padding:80px 30px 60px;
+
+        .card_price {
+
+            .card_price_item {
+                width:80%;
+                padding:30px 0 15px;
+
+                img {
+                    width: 90px;;
+                }
+
+                p {
+                    max-width: 210px;
+                    margin:20px auto 15px;
+                    font-size: 15px;
+                }
+                
+                .btn-2 {
+                width:80%;
+                font-size: 15px;
+                }
+            }
+        }
+    }
+    /*---------------------------------------------------*/
+    .contact {
+        padding:80px 0;
+    
+        .info_contact {
+    
+            input {
+                width: 450px;
+            }
+        }
+    }
+    /*----------------------------------------------------*/
+    .footer {
+        padding:80px 0 75px;
+        
+        .footer_list {
+            margin-left: 40px;
+            .footer_list_item {
+                margin-right: 20px;
+            }
+        }   
+    }
+}
